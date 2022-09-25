@@ -50,6 +50,12 @@ or
 ```bash
     http://localhost:2728
 ```
+Or
+
+```bash
+    http://localhost:2728/
+```
+
 - To visit my aboutMe page
 ```bash
     http://localhost:2728/aboutme
