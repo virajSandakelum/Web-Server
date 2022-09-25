@@ -9,6 +9,12 @@
 - Here used Socket Programing concept.
 - What's the Socket Programing - https://realpython.com/python-sockets/
 
+## File Introduction
+
+ - server.py => Server source code 
+ - htdocs => Contain web pages
+ - readme => Contains instructions to execute the web server
+
 
 ## Installation
 
