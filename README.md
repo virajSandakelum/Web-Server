@@ -3,11 +3,11 @@
 
 ## Introduction 
 
-- This is a simpe web server.
+- This is a simple web server.
 - Created by the Python programing language.
 - Here not used the built-in HTTPServer module.
-- Here used Socket Programing concept.
-- What's the Socket Programing - https://realpython.com/python-sockets/
+- Here used the Socket Programming concept.
+- What's the Socket Programming - https://realpython.com/python-sockets/
 
 ## File Introduction
 
@@ -22,7 +22,7 @@
 
 Preparing the Environment to Run the Program
 
-1. Clone the Git Repository From the by GitHub or Download the Zip file From my GitHub
+1. Clone the Git Repository From by GitHub or Download the Zip file From my GitHub
 ```bash
   https://github.com/virajSandakelum/Web-Server.git
 ```
@@ -50,7 +50,7 @@ or
 ```
 
 
-4. Open the browser and type URL 
+4. Open the browser and type the URL 
 
 - To visit localhost(default routing path)
 ```bash
