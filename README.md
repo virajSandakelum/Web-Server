@@ -46,7 +46,7 @@ or
 
 4. Open the browser and type URL 
 
-- To visit localhost
+- To visit localhost(default routing path)
 ```bash
     http://localhost:2728
 ```
