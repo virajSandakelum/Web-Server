@@ -97,7 +97,7 @@ Connected to aboutMe.html
 ```
 
 03.
-- Visit any other page - http://localhost:2728/<anyRoute>
+- Visit any other page - http://localhost:2728/xyz
 ```
 C:\Users\ACER\Desktop\Upcoming\Network>C:/Users/ACER/AppData/Local/Programs/Python/Python39/python.exe c:/Users/ACER/Desktop/Upcoming/Network/server.py
 Socket successfully created
